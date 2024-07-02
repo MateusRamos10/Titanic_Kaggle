@@ -3,4 +3,4 @@ capa
 
 
 teste
-![download](https://github.com/MateusRamos10/Titanic_Kaggle/assets/43836795/e53df101-8689-491e-8f21-c5760d830e42)
+![download](https://github.com/MateusRamos10/Titanic_Kaggle/assets/43836795/8b1f910b-da1e-4494-bfae-29c8ca7ee12e)
